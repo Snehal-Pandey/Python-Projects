@@ -1,7 +1,4 @@
 hey this is snehal
 guided by abhiskek tiwari
-
-computer engineering
-gujarat
 performing git
-
+performing branch operation
