@@ -86,7 +86,7 @@ def restart(w,l):
 		os.system('clear')
 		main()
 	
-
+print "Lucky to have this opportunity to work on python nicely"
 won=0
 loss=0
 main()
